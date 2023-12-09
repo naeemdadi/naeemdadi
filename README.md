@@ -1,4 +1,4 @@
-# Hello Beautiful Nerd!
+# Hello!
 
 Welcome to my GitHub! 👋
 
