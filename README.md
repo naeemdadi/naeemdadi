@@ -42,5 +42,5 @@ I am a Software Engineer II at [Wednesday Solutions](https://wednesday.is).
 
 > ## Stats
 
-| ![Naeem's GitHub stats](https://github-readme-stats-black-one-10.vercel.app/api?username=naeemdadi&count_private=true&show_icons=true&hide_border=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats-black-one-10.vercel.app/api/top-langs/?username=naeemdadi&layout=compact&hide_border=true)](https://github.com/naeemdadi/github-readme-stats) |
+| ![Naeem's GitHub stats](https://github-readme-stats-black-one-10.vercel.app/api?username=naeemdadi&count_private=true&show_icons=true&hide_border=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats-black-one-10.vercel.app/api/top-langs/?username=naeemdadi&layout=compact&hide_border=true&exclude_repo=omnifoodus)](https://github.com/naeemdadi/github-readme-stats) |
 | ------------- | ------------- |
