@@ -14,13 +14,13 @@ I am a Software Engineer II at [Wednesday Solutions](https://wednesday.is).
 > ## Connect with me
 
 <a href="https://twitter.com/naeem_dadi">
-<img height="35" src="https://camo.githubusercontent.com/7caee9762e6123ae26c3ce5a194e113dbb1ac403ed1e8529156981eb9ec096e1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"/>
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/naeemdadi">
-<img height="35" src="https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/>
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
 </a>
 <a href="mailto:naeemdadi85@gmail.com">
-<img height="35" src="https://camo.githubusercontent.com/443a1f864f5b7f354e65595d3713156bfab31c7caa731f3f1d214b87aba63168/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"/>
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_Gmail_%282015-2020%29.svg"/>
 </a>
 
 > ## Stats
